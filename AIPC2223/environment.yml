@@ -1,0 +1,10 @@
+#this is for binder
+name: aipc2223-environment
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - csv
+  - matplotlib
+  - pandas
+  - ipywidgets
