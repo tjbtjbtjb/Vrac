@@ -1,0 +1,11 @@
+#this is for binder
+name: aipc2223-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - csv
+  - matplotlib
+  - pandas
+  - ipywidgets
