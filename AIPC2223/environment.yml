@@ -1,5 +1,8 @@
 #this is for binder
 name: aipc2223-environment
+name: example-environment
+channels:
+  - conda-forge
 dependencies:
   - python=3.9
   - numpy
